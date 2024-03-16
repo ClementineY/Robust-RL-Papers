@@ -129,7 +129,7 @@
 
 1. **Robust Reinforcement Learning using Offline Data**
 
-   *Kishan Panaganti, Zaiyan Xu, Dileep Kalathil, Mohammad Ghavamzadeh.* [[PDF](https://openreview.net/forum?id=AK6S9MZwM0), *Advances in Neural Information Processing Systems*, 2022.
+   *Kishan Panaganti, Zaiyan Xu, Dileep Kalathil, Mohammad Ghavamzadeh.* [PDF](https://openreview.net/forum?id=AK6S9MZwM0), *Advances in Neural Information Processing Systems*, 2022.
 
 ---
 
